@@ -1,7 +1,6 @@
-# c34-Projec
+# C35 projec
 
-Output link \
+https://dewoolkaridhish4.github.io/c35-projec/.
 
 
-
-https://dewoolkaridhish4.github.io/c34-Projec/.
+Output link
